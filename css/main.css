@@ -331,6 +331,41 @@ li {
   padding: 120px 24px;
 }
 
-.footer-social-icons {
-  color: #505f79;
+#contact-me h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 44px;
 }
+
+form {
+  padding: 10px 15px;
+  text-align: center;
+}
+
+form input {
+  margin: 10px 0;
+  width: 100%;
+}
+
+form textarea {
+  display: block;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+form button {
+  background-color: #ff6b00;
+  padding: 12px;
+}
+
+.contact-social {
+  border-top: 2px solid #eee;
+  display: flex;
+  justify-content: center;
+  padding: 16px 0;
+}
+
+/* .footer-social-icons {
+  color: #505f79;
+} */
