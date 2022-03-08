@@ -325,3 +325,8 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+/* Contact form */
+#contact-me {
+  padding: 120px 24px;
+}
